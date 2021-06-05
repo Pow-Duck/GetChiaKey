@@ -1,3 +1,5 @@
+github.com/Pow-Duck/processes v0.0.1 h1:uRxzynsMBaugEJ49pSYbJf930+Lxb7md774TD5HNdN8=
+github.com/Pow-Duck/processes v0.0.1/go.mod h1:yzNtCG6rCzDeelESoeGg1SDnSsh00Jh2eFR8UgsqvMw=
 github.com/ying32/dylib v0.0.0-20210414124638-bf395b2d391a h1:kyKEUVx/Q2CVZmGMAtgChD4U+hvc/oRU7BgaOK0u7bY=
 github.com/ying32/dylib v0.0.0-20210414124638-bf395b2d391a/go.mod h1:WPBTfbqg/aA1xqHFPB4fgBHETq/G/75yErbnexmaEOo=
 github.com/ying32/govcl v1.2.10 h1:n0Z0DdrzKP6ia1NII4TVDnp0WumQ0X66MvV3NSh9yQk=

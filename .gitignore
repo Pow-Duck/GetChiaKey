@@ -16,3 +16,4 @@
 .idea
 liblcl.so
 liblcl.dll
+internal/chia/chia_test.go
