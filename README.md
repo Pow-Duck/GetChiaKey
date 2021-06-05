@@ -7,3 +7,6 @@ Get the key of Chia, use it for novices who don’t know the computer, the code 
 
 
 ![](img/sp.png)
+
+### 下载
+https://github.com/Pow-Duck/GetChiaKey/releases/tag/v0.0.1
